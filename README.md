@@ -1,3 +1,3 @@
 
-# Builds a CentOS 7 base image for CircleCI
+### Builds a centos7 base image for circleci
 
