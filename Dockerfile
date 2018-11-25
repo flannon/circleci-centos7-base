@@ -22,6 +22,4 @@ RUN ln -sf /usr/share/zoneinfo/Etc/UTC /etc/localtime
 RUN localedef -c -i en_US -f UTF-8 en_US.UTF-8
 ENV LANG="en_US.UTF-8"
 
-#ENTRYPOINT contacts
-
 USER circleci
