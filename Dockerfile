@@ -1,4 +1,3 @@
-#FROM centos/s2i-core-centos7
 FROM centos:7
 
 MAINTAINER Flannon Jackson <flannon@5eight5.com>
